@@ -1,5 +1,10 @@
-.carousel-indicators{
-  color: grey;
+.carousel-caption{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    left:0;
+    bottom: 0;
+    padding-bottom: 2rem;
+    padding-left: 2rem;
 }
 
 .team .col-lg-4 {
@@ -25,7 +30,7 @@
 }
 
 @media (max-width: 540px) {
-    .carouselimg {
+    .carouselImg {
         display: none;
     }
     
@@ -34,15 +39,29 @@
     }
 }
 
-.carousel-caption{
-  background-color   : rgba(0, 0, 0, 0.5);
-  width              : 100%;
-  left               : 0;
-  bottom             : 0;
-  padding-bottom     : 2rem;
-  padding-left       : 2rem;
-}
 
-.d-block{
-  width   : 100%;
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
